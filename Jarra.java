@@ -12,7 +12,14 @@ public class Jarra { //atributos
     }
 
     // metodos
-    // 1
+    // 1 Capacidad-Cantidad
+    public int capacidad() {
+        return this.capacidad;
+    }
+    public int cantidad() {
+        return this.cantidad;
+    }
+
     // 2
     // 3
     
